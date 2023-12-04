@@ -1,9 +1,9 @@
 # Connect-4
 
 ### Introduction
-    Connect 4 a classic two-player, turn-based game where strategic thinking and quick decisions are key 
-    to victory. In this game, players take turns dropping their chips into a vertical grid, aiming to 
-    connect four of their chips either horizontally, vertically, or diagonally.
+    Connect 4 a classic two-player, turn-based game where strategic thinking and quick decisions are key to
+    victory. In this game, players take turns dropping their chips into a vertical grid, aiming to connect 
+    four of their chips either horizontally, vertically, or diagonally.
     
 ### Features
     - Dynamic turn-based gameplay with strategic chip placement.
